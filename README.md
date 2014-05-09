@@ -73,7 +73,7 @@ Front_WEB-Design-
 <!---- This is for the CSS-->
 
 
-
+<style>
 @charset "utf-8";
 body {
 	background: #E1DFE1;
@@ -247,3 +247,5 @@ p.main{
 	
 	}
 /*----END of Aside-------/
+
+</style>
